@@ -2,7 +2,7 @@
     <GridLayout rows="auto, *" style="background: linear-gradient(to bottom, #0057B7 50%, #FFD700 50%);">
         
         <StackLayout row="0" horizontalAlignment="center" margin="30">
-            <Label text="🪙 999,999" style="font-size: 28; font-weight: bold; color: white;" />
+            <Label text="🪙 999,999" style="font-size: 28; font-weight: bold; color: white; text-shadow: 2px 2px 4px rgba(0,0,0,0.6);" />
         </StackLayout>
 
         <StackLayout row="1" horizontalAlignment="center" verticalAlignment="center">
